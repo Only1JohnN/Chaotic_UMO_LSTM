@@ -81,7 +81,7 @@ The system and LSTM parameters can be adjusted in `config.py`. Key parameters in
 
 ## Requirements
 
-The project requires Python 3.8+ and the dependencies listed in `requirements.txt`.
+The project requires Python 3.11 and the dependencies listed in `requirements.txt`.
 
 ## License
 
@@ -91,6 +91,3 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 - The UMO system is inspired by chaotic systems in dynamical systems theory.
 - The LSTM model is implemented using Keras and TensorFlow.
-```
-
-Make sure to replace `<repository-url>` with the actual URL of your repository. Also, ensure the plots are generated and saved in the plots directory before using the README.
